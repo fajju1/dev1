@@ -4,7 +4,7 @@ node('mavenlable') {
    
    stage('Preparation') { // for display purposes
       
-      git 'https://github.com/jglick/simple-maven-project-with-tests.git'
+      git 'https://github.com/fajju1/dev1.git'
         
       
    }
