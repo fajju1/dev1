@@ -1,5 +1,5 @@
 env.mvnHome = '/usr/share/maven3'
-node('mavenlabel') {
+node('mavenlable') {
    
    
    stage('Preparation') { // for display purposes
