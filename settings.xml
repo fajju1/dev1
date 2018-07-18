@@ -3,12 +3,12 @@
 <servers>
     <server>
       <id>nexus-S</id>
-      <username>nexus-user</username>
+      <username>nexus_user</username>
       <password>Nayab@18</password>
     </server>
     <server>
       <id>nexus-R</id>
-      <username>nexus-user</username>
+      <username>nexus_user</username>
       <password>Nayab@18</password>
     </server>
   </servers>
