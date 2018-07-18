@@ -2,14 +2,14 @@
 
 <servers>
     <server>
-      <id>spring-snapshots</id>
-      <username>spring-user</username>
-      <password>my_password</password>
+      <id>nexus-S</id>
+      <username>nexus-user</username>
+      <password>Nayab@18</password>
     </server>
     <server>
-      <id>spring-releases</id>
-      <username>spring-user</username>
-      <password>my_password</password>
+      <id>nexus-R</id>
+      <username>nexus-user</username>
+      <password>Nayab@18</password>
     </server>
   </servers>
   
