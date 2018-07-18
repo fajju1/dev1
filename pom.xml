@@ -39,17 +39,17 @@
   </dependencies>
 <profiles>
 <profile>
-     <id>spring-deploy</id>
+     <id>nexus-deploy</id>
  <distributionManagement>
     <repository>
-      <id>spring-releases</id>
-      <name>spring-releases</name>
-      <url>http://ec2-18-216-130-250.us-east-2.compute.amazonaws.com:8081/nexus/content/repositories/spring-releases/</url>
+      <id>nexus-R</id>
+      <name>nexus-R</name>
+      <url>http://ec2-18-222-175-164.us-east-2.compute.amazonaws.com:8081/nexus/content/repositories/nexus-R/</url>
     </repository>
     <snapshotRepository>
-      <id>spring-snapshots</id>
-      <name>spring-snapshots</name>
-      <url>http://ec2-18-216-130-250.us-east-2.compute.amazonaws.com:8081/nexus/content/repositories/spring-snapshots/</url>
+      <id>nexus-S</id>
+      <name>nexus-S</name>
+      <url>http://ec2-18-222-175-164.us-east-2.compute.amazonaws.com:8081/nexus/content/repositories/nexus-S/</url>
     </snapshotRepository>
   </distributionManagement>
 </profile>
